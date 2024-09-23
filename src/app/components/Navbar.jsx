@@ -54,7 +54,7 @@ const Navbar = () => {
             <div className="menu hidden md:block md:w-auto" id="navbar">
                 <ul className="flex p-4 md:p-0 md:flex-row md:space-x-8 mt-0">
                     <NavLink onClick={() => {handleClick(aboutRef)}} title="About" />
-                    {/* <NavLink onClick={() => {handleClick(projectRef)}} title="Projects" /> */}
+                    <NavLink onClick={() => {handleClick(projectRef)}} title="Projects" />
                     <NavLink onClick={() => {handleClick(experienceRef)}} title="Experience" />
                     <NavLink onClick={() => {handleClick(contactRef)}} title="Contact" />
                 </ul>
