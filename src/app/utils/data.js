@@ -46,22 +46,58 @@ export const TAB_DATA = [
 export const PROJECT_DATA = [
     {
         id: 1,
-        title: "SnapDev",
-        description: "NextJS, ReactJS, Prisma, MongoDB",
-        image: "/images/projects/SnapDev.png",
-        tags: ['All', 'Fullstack', 'NextJS', 'ReactJS', 'Prisma', 'MongoDB'],
-        gitUrl: "https://github.com/AishwaryaParab/SnapDev-Blog",
-        previewUrl: "https://snap-dev-blog.vercel.app/"
+        title: "Invoice Generator",
+        description: "ReactJS, Bootstrap, JSpdf, html2canvas",
+        image: "/images/projects/invoice_app.png",
+        tags: ['All', 'Frontend', 'ReactJS'],
+        gitUrl: "https://github.com/raj-kubal99/Invoice-Generator",
+        previewUrl: "https://invoice-generator-psi-three.vercel.app/"
     },
     {
         id: 2,
-        title: "Movix",
-        description: "ReactJS, Redux, Infinite Scrolling, TMDB API",
-        image: "/images/projects/Movix.png",
-        tags: ['All', 'Frontend', 'ReactJS', 'Redux'],
-        gitUrl: "https://github.com/AishwaryaParab/movix",
-        previewUrl: "https://aishwaryaparab.github.io/movix/"
+        title: "Snake Game",
+        description: "ReactJS, CSS, Github Pages",
+        image: "/images/projects/snake_game.png",
+        tags: ['All', 'Frontend', 'ReactJS'],
+        gitUrl: "https://github.com/raj-kubal99/Snake-Game",
+        previewUrl: "https://raj-kubal99.github.io/Snake-Game/"
     },
+    {
+        id: 3,
+        title: "Portfolio",
+        description: "NextJS, ReactJS",
+        image: "/images/projects/portfolio.png",
+        tags: ['All', 'Fullstack', 'Frontend', 'Backend', 'NextJS', 'ReactJS'],
+        gitUrl: "https://github.com/raj-kubal99/Raj-Kubal",
+        previewUrl: "https://raj-kubal.vercel.app/"
+    },
+    {
+        id: 4,
+        title: "MVC Node App",
+        description: "NodeJS, ExpressJS, MySQL",
+        image: "/images/projects/CC_POC.png",
+        tags: ['All', 'Backend', 'NodeJS', 'MySQL', 'Express'],
+        gitUrl: "https://github.com/raj-kubal99/POC-Backend-Nodejs",
+        previewUrl: "https://github.com/raj-kubal99/POC-Backend-Nodejs"
+    },
+    // {
+    //     id: 5,
+    //     title: "SnapDev",
+    //     description: "NextJS, ReactJS, Prisma, MongoDB",
+    //     image: "/images/projects/SnapDev.png",
+    //     tags: ['All', 'Fullstack', 'NextJS', 'ReactJS', 'Prisma', 'MongoDB'],
+    //     gitUrl: "https://github.com/AishwaryaParab/SnapDev-Blog",
+    //     previewUrl: "https://snap-dev-blog.vercel.app/"
+    // },
+    // {
+    //     id: 6,
+    //     title: "Movix",
+    //     description: "ReactJS, Redux, Infinite Scrolling, TMDB API",
+    //     image: "/images/projects/Movix.png",
+    //     tags: ['All', 'Frontend', 'ReactJS', 'Redux'],
+    //     gitUrl: "https://github.com/AishwaryaParab/movix",
+    //     previewUrl: "https://aishwaryaparab.github.io/movix/"
+    // },
     // {
     //     id: 3,
     //     title: "BlueRockTek",
